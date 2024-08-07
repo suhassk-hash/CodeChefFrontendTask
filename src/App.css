@@ -86,14 +86,12 @@
   }
 
   @media(max-width: 402px) {
-    .App{
-      height: 100dvw;
-    }
     .Left-Block {
       display: none;
     }
     .Right-Block {
       display: block;
       width: 100dvw;
+      height: 100dvh;
     }
   }
