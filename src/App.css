@@ -92,6 +92,14 @@
     .Right-Block {
       display: block;
       width: 100dvw;
-      height: 90dvh;
+      height: auto;
+    }
+    .Message-Wrap{
+      height: 85.5dvh;
+    }
+    .Header{
+      text-align: center;
+      border-bottom: 2px solid black;
+      height: 5%;
     }
   }
